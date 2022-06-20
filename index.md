@@ -4,7 +4,7 @@
 [About Me](/aboutMe/index.html)
 
 # Writing
-[Blog](/blog/index.html)
+[Blog](/blog/index.html)   
 [Articles](/articles/index.html)
 
 # Video Productions
