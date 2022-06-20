@@ -5,7 +5,6 @@
 
 # Writing
 [Blog](/blog/index.html)
-
 [Articles](/articles/index.html)
 
 # Video Productions
