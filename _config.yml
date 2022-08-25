@@ -1,8 +1,8 @@
 theme: jekyll-theme-midnight
 title: Ravinder Olivier Singh Dadiala
-email: ravin.Olivier@outlook.com
+email: ravinder-Olivier@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
- Articles by ISB Tech Drive Lead Developer, Ravinder Olivier Singh Dadiala! Information for new team members joining the Tech Drive!
+Info and projects by @ravinder-Olivier
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ravinder-Olivier.github.io" # the base hostname & protocol for site, e.g. http://example.com
 github_username:  ravinder-Olivier
